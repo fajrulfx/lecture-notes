@@ -266,16 +266,32 @@
 
     .katex-display {
       margin: 1.5rem 0;
-      overflow: visible;
+      overflow-x: auto;
+      overflow-y: hidden;
+      padding: 0.5rem 0;
+      -webkit-overflow-scrolling: touch;
     }
 
     .katex-display > .katex {
-      overflow: visible;
-      white-space: normal;
+      white-space: nowrap;
     }
 
     .katex {
       font-size: 1.1em;
+    }
+
+    /* Hide scrollbar but allow scrolling */
+    .katex-display::-webkit-scrollbar {
+      height: 4px;
+    }
+
+    .katex-display::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .katex-display::-webkit-scrollbar-thumb {
+      background: #d1d5db;
+      border-radius: 2px;
     }
 
     .markdown-section a {
