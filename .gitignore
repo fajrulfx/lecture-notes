@@ -1,0 +1,14 @@
+# Original files (optional - remove if you want to keep them in repo)
+# LECTURE NOTES.htm
+# LECTURE NOTES.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
