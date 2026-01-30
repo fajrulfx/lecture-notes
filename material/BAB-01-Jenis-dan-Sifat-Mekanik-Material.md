@@ -5,7 +5,7 @@
 
 
 ----
-## 1. Pendahuluan: Filosofi Pemilihan Material
+## 1. Pendahuluan Material Teknik
 
 Dalam dunia teknik, pemahaman terhadap material-material yang digunakan sangat penting, karena setiap material memiliki sifat dan karakteristik tertentu.
 

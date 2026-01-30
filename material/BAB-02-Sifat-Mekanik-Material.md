@@ -1,8 +1,8 @@
 # Bab 2: Sifat Mekanik Material
 
-## 1. Studi Kasus: Kegagalan Fatal Akibat Perubahan Sifat Material
+## 1. Studi Kasus: Kegagalan Sifat Material
 
-### A. Tenggelamnya Titanic (1912) - Misteri Paku Keling yang Rapuh
+### A. Tenggelamnya Titanic (1912) - Paku Keling yang Rapuh
 
 Pada tanggal 15 April 1912, kapal legendaris RMS Titanic, yang dijuluki sebagai kapal yang tidak mungkin karam, mengalami tragedi tabrakan dengan gunung es. Kondisi ini menyebabkan lambung kapal rusak dan kapal pun tenggelam.
 
