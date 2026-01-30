@@ -1,3 +1,5 @@
+<a href="../" style="display:block;padding:0.5rem 1.5rem;font-size:0.8rem;color:#6b7280;">← Home </a>
+
 * **Materi Kuliah**
   * [BAB I. Pengantar Fisika](BAB-01-Pengantar-Fisika.md)
   * [BAB II. Besaran dan Satuan](BAB-02-Besaran-dan-Satuan.md)
